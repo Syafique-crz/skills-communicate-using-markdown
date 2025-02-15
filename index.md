@@ -3,9 +3,14 @@
 ###### this is the smallest header which is  `<h6>`
 
 ## I can add image here 
-[Image of Developer]![sdf](https://github.com/user-attachments/assets/6bdc944b-929c-4eb5-905a-bbb301562ef6)
+[Image of Developer] ![yj](https://github.com/user-attachments/assets/dfd62be2-03f1-49af-8a0c-1be4a50362f4)
 
-## add some code here 
+
+## I can add some code here 
 ``` javascript
 var myVar = "Hello, Iam a Software Engineer!";
 ```
+## I can add task list 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
